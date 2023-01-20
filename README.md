@@ -26,13 +26,13 @@ const i18nextExtension = new I18nextExtension({
       de: {
         translation: {
           hello1: 'Hallo',
-          hello2: 'Hallo {name}',
+          hello2: 'Hallo {{name}}',
         },
       },
       en: {
         translation: {
           hello1: 'Hello',
-          hello2: 'Hello {name}',
+          hello2: 'Hello {{name}}',
         },
       }, 
     },
