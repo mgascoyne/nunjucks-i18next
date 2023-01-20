@@ -1,6 +1,6 @@
 {
   "name": "nunjucks-i18next",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nunjucks Extension and Filter for i18next",
   "main": "lib/i18next.extension.js",
   "types": "lib/i18next.extension.d.ts",
